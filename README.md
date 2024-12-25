@@ -2,7 +2,7 @@
 ## Introduction
 The Smart Bus Management System is an innovative solution designed to streamline public transportation. This system provides intelligent route planning, efficient bus system management, seamless online payment integration and using some basic model ML to predict the revenue. By leveraging technology, it aims to enhance user convenience, optimize operational efficiency, and support sustainable urban mobility.
 ## Technologies and ideas
-Solving routing solution by BFS
+Solving routing solution by BFS  
 MERN Stacks + JWT  
 Socket.IO  
 Cloudinary  
