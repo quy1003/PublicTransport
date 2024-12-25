@@ -18,7 +18,7 @@ All of diagram was designed by using Visual Paradigm
 Our System  
 ![Bus Management](https://res.cloudinary.com/dbdd85bp4/image/upload/v1735113173/Screenshot_2024-12-25_145231_azilss.png)  
 Detail Route  
-![Detail Route](https://res.cloudinary.com/dbdd85bp4/image/upload/v1735113289/Screenshot_2024-12-25_145409_qb2ojw.png)
+![Detail Route](https://res.cloudinary.com/dbdd85bp4/image/upload/v1735113289/Screenshot_2024-12-25_145409_qb2ojw.png)  
 Routing  
 ![Routing](https://res.cloudinary.com/dbdd85bp4/image/upload/v1735113336/Screenshot_2024-12-25_145434_aypwbe.png)
 ### Contact
