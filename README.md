@@ -1,25 +1,48 @@
 # PublicTransport
 ## Introduction
-The Smart Bus Management System is an innovative solution designed to streamline public transportation. This system provides intelligent route planning, efficient bus system management, seamless online payment integration and using some basic model ML to predict the revenue. By leveraging technology, it aims to enhance user convenience, optimize operational efficiency, and support sustainable urban mobility.
-## Technologies and ideas
-Solving routing solution by BFS  
-MERN Stacks + JWT  
-Socket.IO  
-Cloudinary  
-Firebase  
-ZaloPay  
-Leaflet with OpenStreetMap core  
-Gemini  
-Tensorflow
+This project develops a public transportation management system to address issues such as traffic congestion, air pollution, and to improve the quality of public transit services. Built with the MERN Stack (MongoDB, Express.js, React.js, Node.js), the system provides features including:  
+- Online bus ticket booking.  
+- Route planning and navigation.  
+- Real-time bus tracking.
+- Real-time chat
+- Automation Botchat
+- Management of routes, stations, and buses.  
+
+## Key Features
+- **For Passengers:**  
+  - View bus route information, schedules, and book bus tickets online.  
+  - Plan routes and find directions between stations with BFS.  
+  - Track bus locations in real-time.  
+  - Online payment integration via ZaloPay.  
+
+- **For Administrators:**  
+  - Manage routes, stations, buses, and tickets.  
+  - View and update bus trip details.  
+  - Monitor active bus locations.  
+  - Report and handle vehicle incidents.  
+
+## Technologies Used
+- **Frontend:** React.js with reusable components and state management via hooks.  
+- **Backend:** Node.js, Express.js, RESTful APIs.  
+- **Database:** MongoDB & Firebase for flexible data storage and management.  
+- **Third-Party Services:**  
+  - ZaloPay: Online payment gateway.  
+  - Leaflet: Map rendering and routing visualization.  
+  - Cloudinary: Media storage for images and videos.  
+  - Socket.IO: Real-time bus location updates.
 ## Detail Document
 You can read the detail document at this link [Document](https://docs.google.com/document/d/1ZsTBc7PDvZtPu8-32sbSKyRxddGRAeaq/edit#heading=h.gjdgxs)  
-All of diagram was designed by using Visual Paradigm
-## Overview
-Our System  
-![Bus Management](https://res.cloudinary.com/dbdd85bp4/image/upload/v1735113173/Screenshot_2024-12-25_145231_azilss.png)  
-Detail Route  
-![Detail Route](https://res.cloudinary.com/dbdd85bp4/image/upload/v1735113289/Screenshot_2024-12-25_145409_qb2ojw.png)  
-Routing  
-![Routing](https://res.cloudinary.com/dbdd85bp4/image/upload/v1735113336/Screenshot_2024-12-25_145434_aypwbe.png)
-### Contact
+All of diagram was designed by using Visual Paradigm  
+## Installation
+### System Requirements
+- Node.js v16 or later.  
+- MongoDB v5 or later.  
+- Internet connection for third-party services.  
+
+### Project Setup
+1. Clone the repository:  
+   `git clone https://github.com/quy1003/PublicTransport/`
+   `cd PublicTransport`
+   `npm run dev`  
+## Contact
 All of you can also contact [me](https://www.facebook.com/thiquy.nguyen.02102003) if you have any problems  
