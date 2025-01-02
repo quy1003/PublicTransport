@@ -41,8 +41,8 @@ All of diagram was designed by using Visual Paradigm
 
 ### Project Setup
 1. Clone the repository:  
-   `git clone https://github.com/quy1003/PublicTransport/`
-   `cd PublicTransport`
+   `git clone https://github.com/quy1003/PublicTransport/`  
+   `cd PublicTransport`  
    `npm run dev`  
 ## Contact
 All of you can also contact [me](https://www.facebook.com/thiquy.nguyen.02102003) if you have any problems  
